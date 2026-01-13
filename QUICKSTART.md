@@ -2,7 +2,7 @@
 
 Get started with the Detection-as-Code curriculum in minutes!
 
-## ⚡ 5-Minute Setup
+## 5-Minute Setup
 
 ### 1. Install Rust
 
@@ -52,7 +52,7 @@ cargo test
 echo '{"timestamp":1704067200,"level":"INFO","message":"Hello, Detection-as-Code!"}' | cargo run
 ```
 
-## 🎯 Choose Your Path
+## Choose Your Path
 
 ### For Security Engineers New to Rust
 
@@ -97,7 +97,7 @@ echo '{"timestamp":1704067200,"level":"INFO","message":"Hello, Detection-as-Code
 - Module 7: Performance
 - Module 9: Advanced Topics
 
-## 📚 First Steps
+## First Steps
 
 ### Week 1: Foundations
 
@@ -120,7 +120,7 @@ echo '{"timestamp":1704067200,"level":"INFO","message":"Hello, Detection-as-Code
 3. **Add:** Error handling
 4. **Test:** Unit tests
 
-## 🛠️ Development Environment
+## Development Environment
 
 ### Recommended Editor Setup
 
@@ -167,7 +167,7 @@ cargo clippy
 cargo doc --open
 ```
 
-## 📖 Essential Reading
+## Essential Reading
 
 Before diving deep, read:
 
@@ -175,7 +175,7 @@ Before diving deep, read:
 2. **[Sigma Specification](https://github.com/SigmaHQ/sigma-specification)** - Overview
 3. **[MITRE ATT&CK](https://attack.mitre.org/)** - Framework basics
 
-## 🎓 Learning Tips
+## Learning Tips
 
 ### 1. Code Every Day
 - Even 30 minutes makes a difference
@@ -202,7 +202,7 @@ Before diving deep, read:
 - Test continuously
 - Refactor as you learn
 
-## 🔥 Common Pitfalls
+## Common Pitfalls
 
 ### 1. Trying to Learn Everything at Once
 - **Solution:** Focus on one module at a time
@@ -224,7 +224,7 @@ Before diving deep, read:
 - **Solution:** Ask questions early
 - Use community resources
 
-## 📊 Progress Tracking
+## Progress Tracking
 
 Track your progress:
 
@@ -248,7 +248,7 @@ Track your progress:
 ...
 ```
 
-## 🆘 Getting Help
+## Getting Help
 
 **Stuck? Try this order:**
 
@@ -259,7 +259,7 @@ Track your progress:
 5. **Examples:** Look at example code
 6. **Debug:** Add print statements and tests
 
-## 🎯 Setting Goals
+## Setting Goals
 
 ### Week 1 Goal
 Complete Module 1 and write your first Sigma rule.
@@ -273,16 +273,16 @@ Complete standard track, build Projects 1-3.
 ### 6-Month Goal
 Finish all modules, deploy Project 5 to production.
 
-## 🌟 Next Steps
+## Next Steps
 
 Ready to start?
 
-1. ✅ Complete setup above
-2. ✅ Choose your learning path
-3. ✅ Set your goals
-4. 📚 Start with [Module 1](curriculum/modules/module-01-foundations/README.md)
+1. Complete setup above
+2. Choose your learning path
+3. Set your goals
+4. Start with [Module 1](curriculum/modules/module-01-foundations/README.md)
 
-**Happy learning!** 🦀🔍
+**Happy learning!**
 
 ---
 

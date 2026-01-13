@@ -2,11 +2,11 @@
 
 A comprehensive, modular curriculum for learning Detection Engineering using Rust.
 
-## 🎯 Overview
+## Overview
 
 This curriculum provides a professional learning path for implementing Detection-as-Code using Rust. Designed for engineers with security or software development experience, it combines theoretical foundations with hands-on practical applications.
 
-## 📚 Curriculum Structure
+## Curriculum Structure
 
 The curriculum consists of 9 progressive modules:
 
@@ -20,7 +20,7 @@ The curriculum consists of 9 progressive modules:
 8. **[Deployment and Operations](curriculum/modules/module-08-deployment/)** - Production deployment
 9. **[Advanced Topics](curriculum/modules/module-09-advanced-topics/)** - ML, graphs, and cutting-edge techniques
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -50,26 +50,26 @@ The curriculum consists of 9 progressive modules:
    cat README.md
    ```
 
-## 📖 Learning Paths
+## Learning Paths
 
-### 🏃 Fast Track (6-8 weeks)
+### Fast Track (6-8 weeks)
 For experienced Rust developers:
 - Modules: 1, 3, 4, 5, 6, 8
 - Projects: 2, 3, 5
 
-### 🚶 Standard Track (12-14 weeks)
+### Standard Track (12-14 weeks)
 Recommended for most students:
 - All modules in sequence
 - All projects
 - All labs
 
-### 🧗 Extended Track (16-20 weeks)
+### Extended Track (16-20 weeks)
 For those new to Rust or security:
 - All modules with additional practice
 - Supplementary exercises  
 - Multiple iterations on projects
 
-## 🛠️ What You'll Build
+## What You'll Build
 
 Throughout this curriculum, you'll build:
 
@@ -79,7 +79,7 @@ Throughout this curriculum, you'll build:
 - **Project 4:** High-performance detection pipeline (100K+ events/sec)
 - **Project 5:** Complete production detection system
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 Detection-as-Code/
@@ -93,18 +93,18 @@ Detection-as-Code/
 └── CONTRIBUTING.md
 ```
 
-## 🎓 Learning Outcomes
+## Learning Outcomes
 
 After completing this curriculum, you will be able to:
 
-- ✅ Design and implement detection rules as code
-- ✅ Build high-performance log parsers and detection engines
-- ✅ Work with industry-standard formats (Sigma, YARA-L)
-- ✅ Deploy detection systems in production environments
-- ✅ Optimize detection performance and reduce false positives
-- ✅ Contribute to open-source detection engineering projects
+- Design and implement detection rules as code
+- Build high-performance log parsers and detection engines
+- Work with industry-standard formats (Sigma, YARA-L)
+- Deploy detection systems in production environments
+- Optimize detection performance and reduce false positives
+- Contribute to open-source detection engineering projects
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
@@ -114,11 +114,11 @@ Areas we'd love help with:
 - Bug fixes and improvements
 - Documentation enhancements
 
-## 📜 License
+## License
 
 This curriculum is released under the MIT License. See [LICENSE](LICENSE) for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 Built with inspiration from:
 - [Sigma Rule Project](https://github.com/SigmaHQ/sigma)
@@ -126,14 +126,14 @@ Built with inspiration from:
 - [Rust Security Working Group](https://www.rust-lang.org/governance/wgs/wg-security)
 - [MITRE ATT&CK Framework](https://attack.mitre.org/)
 
-## 📞 Support
+## Support
 
 - **Issues:** [GitHub Issues](https://github.com/404foundme-lg/Detection-as-Code/issues)
 - **Discussions:** [GitHub Discussions](https://github.com/404foundme-lg/Detection-as-Code/discussions)
 
-## 🌟 Star History
+## Star History
 
-If you find this curriculum useful, please consider giving it a star! ⭐
+If you find this curriculum useful, please consider giving it a star!
 
 ---
 

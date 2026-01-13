@@ -2,7 +2,7 @@
 
 Thank you for your interest in contributing to the Detection-as-Code curriculum! This document provides guidelines for contributing.
 
-## 🎯 Ways to Contribute
+## Ways to Contribute
 
 ### 1. Content Contributions
 - New modules or lessons
@@ -28,7 +28,7 @@ Thank you for your interest in contributing to the Detection-as-Code curriculum!
 - Sharing your learning journey
 - Providing feedback on modules
 
-## 📋 Contribution Process
+## Contribution Process
 
 ### For Content Changes
 
@@ -83,7 +83,7 @@ Thank you for your interest in contributing to the Detection-as-Code curriculum!
    - Expected output
    - Learning objectives
 
-## 📝 Style Guidelines
+## Style Guidelines
 
 ### Markdown
 - Use ATX-style headers (`#` not underlines)
@@ -103,7 +103,7 @@ Thank you for your interest in contributing to the Detection-as-Code curriculum!
 - Document false positives
 - Provide test cases
 
-## 🔍 Content Standards
+## Content Standards
 
 ### Module Content Should Include
 - Clear learning objectives
@@ -127,7 +127,7 @@ Thank you for your interest in contributing to the Detection-as-Code curriculum!
 - Offer bonus challenges
 - Match module difficulty
 
-## 🐛 Reporting Issues
+## Reporting Issues
 
 When reporting issues:
 
@@ -139,7 +139,7 @@ When reporting issues:
    - What actually happened
    - Steps to reproduce
 
-## ✅ Pull Request Checklist
+## Pull Request Checklist
 
 Before submitting a PR:
 
@@ -152,7 +152,7 @@ Before submitting a PR:
 - [ ] PR description explains changes
 - [ ] Related issue is referenced
 
-## 🎨 Module Template
+## Module Template
 
 When creating new modules, use this structure:
 
@@ -186,13 +186,13 @@ Questions and challenges...
 Link to next module...
 ```
 
-## 🤔 Questions?
+## Questions?
 
 - **General questions:** Use [GitHub Discussions](https://github.com/404foundme-lg/Detection-as-Code/discussions)
 - **Bug reports:** Open an [Issue](https://github.com/404foundme-lg/Detection-as-Code/issues)
 - **Private concerns:** Email maintainers (see profile)
 
-## 📜 Code of Conduct
+## Code of Conduct
 
 ### Our Standards
 
@@ -209,18 +209,18 @@ Link to next module...
 - Publishing private information
 - Other unprofessional conduct
 
-## 🏆 Recognition
+## Recognition
 
 Contributors will be:
 - Listed in CONTRIBUTORS.md
 - Credited in relevant sections
 - Thanked in release notes
 
-## 📄 License
+## License
 
 By contributing, you agree that your contributions will be licensed under the MIT License.
 
-## 🙏 Thank You!
+## Thank You!
 
 Your contributions help make detection engineering more accessible to everyone. We appreciate your time and effort!
 

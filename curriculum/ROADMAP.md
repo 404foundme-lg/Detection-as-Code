@@ -2,7 +2,7 @@
 
 Visual guide to navigating the Detection-as-Code curriculum.
 
-## 🗺️ Your Journey
+## Your Journey
 
 ```
 START HERE
@@ -85,17 +85,17 @@ START HERE
 │  • Documentation                    │
 └───────────────┬─────────────────────┘
                 ↓
-        🎓 COMPLETE! 🎉
+        COMPLETE!
 ```
 
-## 🎯 Skill Progression
+## Skill Progression
 
 ### Level 1: Foundation (Weeks 1-4)
 **Skills Acquired:**
-- ✅ Understand Detection-as-Code concepts
-- ✅ Write basic Rust programs
-- ✅ Parse JSON logs
-- ✅ Use git for version control
+- Understand Detection-as-Code concepts
+- Write basic Rust programs
+- Parse JSON logs
+- Use git for version control
 
 **Can Build:**
 - Simple log parsers
@@ -103,10 +103,10 @@ START HERE
 
 ### Level 2: Intermediate (Weeks 5-8)
 **Skills Acquired:**
-- ✅ Map detections to MITRE ATT&CK
-- ✅ Work with multiple log formats
-- ✅ Implement pattern matching
-- ✅ Build correlation logic
+- Map detections to MITRE ATT&CK
+- Work with multiple log formats
+- Implement pattern matching
+- Build correlation logic
 
 **Can Build:**
 - Multi-format parsers
@@ -115,10 +115,10 @@ START HERE
 
 ### Level 3: Advanced (Weeks 9-12)
 **Skills Acquired:**
-- ✅ Parse and translate Sigma rules
-- ✅ Optimize for performance
-- ✅ Deploy to production
-- ✅ Monitor and tune
+- Parse and translate Sigma rules
+- Optimize for performance
+- Deploy to production
+- Monitor and tune
 
 **Can Build:**
 - Sigma rule engines
@@ -127,17 +127,17 @@ START HERE
 
 ### Level 4: Expert (Weeks 13-14+)
 **Skills Acquired:**
-- ✅ Integrate ML models
-- ✅ Graph-based detection
-- ✅ Custom DSLs
-- ✅ Open source contributions
+- Integrate ML models
+- Graph-based detection
+- Custom DSLs
+- Open source contributions
 
 **Can Build:**
 - Complete detection platforms
 - Advanced correlation systems
 - Custom detection frameworks
 
-## 📊 Skill Tree
+## Skill Tree
 
 ```
                     Expert
@@ -168,7 +168,7 @@ START HERE
     Rust Basics   Git/Version   Parsing
 ```
 
-## 🏁 Milestones
+## Milestones
 
 ### Milestone 1: First Detection (Week 2)
 - ✓ Created first Sigma rule
@@ -195,7 +195,7 @@ START HERE
 - ✓ Contributing to open source
 - ✓ Teaching others
 
-## 🔄 Iteration Cycles
+## Iteration Cycles
 
 Each module follows this cycle:
 
@@ -212,7 +212,7 @@ Learn → Practice → Build → Test → Review → Improve
 5. **Review:** Get feedback
 6. **Improve:** Refine and optimize
 
-## 📈 Progress Tracking
+## Progress Tracking
 
 Use this template to track progress:
 
@@ -246,7 +246,7 @@ Use this template to track progress:
 - Contributed to Sigma repo
 ```
 
-## 🎓 Graduation Requirements
+## Graduation Requirements
 
 To complete the curriculum:
 
@@ -256,7 +256,7 @@ To complete the curriculum:
 - ✓ Documentation written
 - ✓ Presentation delivered (optional)
 
-## 🚀 Beyond the Curriculum
+## Beyond the Curriculum
 
 After completion:
 
