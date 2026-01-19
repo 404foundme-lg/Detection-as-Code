@@ -1,0 +1,5 @@
+{"timestamp":1704067200,"level":"INFO","message":"Application started","service":"web-api"}
+{"timestamp":1704067201,"level":"DEBUG","message":"Database connection established","db":"postgres"}
+{"timestamp":1704067202,"level":"WARN","message":"High memory usage","percent":85}
+{"timestamp":1704067203,"level":"ERROR","message":"Request failed","status":500,"path":"/api/users"}
+{"timestamp":1704067204,"level":"INFO","message":"Request processed","duration_ms":42}
